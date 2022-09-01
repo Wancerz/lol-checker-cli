@@ -3,7 +3,7 @@ import json
 
 from riotwatcher import LolWatcher, ApiError
 
-lol_watcher = LolWatcher('RGAPI-064124b1-9fcb-44ed-b32a-a27ab5107dba')
+lol_watcher = LolWatcher('API-key')
 
 my_region = 'eun1'
 # dr Józef Boksa
